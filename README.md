@@ -5,9 +5,11 @@
 <div>参考至:<a href="https://github.com/hwdsl2">Lin Song</a></div>
 <hr>
 首先，我们先将脚本文件下载到我们的服务器当中：
-<code>
-	wget https://raw.githubusercontent.com/angristan/openvpn-install/master/openvpn-install.sh
-</code>		
+<div class="highlight highlight-source-shell">
+	<pre>
+		wget https://raw.githubusercontent.com/angristan/openvpn-install/master/openvpn-install.sh
+	</pre>
+</div>		
 接着给脚本文件设置上执行文件权限
 <div class="highlight highlight-source-shell">
 	<pre>
