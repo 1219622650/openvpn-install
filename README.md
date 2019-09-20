@@ -27,3 +27,4 @@ Ubuntu Server 16.04 LTS 64bit Minimal（VirMach）
 		./openvpn-install.sh
 	</pre>
 </div>
+安装完毕后会生成一个.ovpn文件，在命令界面查看文件路径并下载到客户端进行配置导入即可
