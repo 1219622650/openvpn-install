@@ -1,7 +1,8 @@
 # openvpn-install
 <hr>
 <h3>环境：</h3>
-Ubuntu Server 16.04 LTS 64bit Minimal（VirMach）
+<div>Ubuntu Server 16.04 LTS 64bit Minimal（VirMach）</div>
+<div>参考至:<a herf="https://github.com/hwdsl2">Lin Song<a></div>
 <hr>
 首先，我们先将脚本文件下载到我们的服务器当中：
 <div class="highlight highlight-source-shell">
